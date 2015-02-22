@@ -20,6 +20,6 @@ In order for the script to run, the 8 data/descriptive files need to be saved in
 Once the script is ran/sourced, the output file is generated.
 
 ### Output: 
-The output of the script is a summary text file that groups wearable mean and std measurement data by Subject (person) and Activity (walking, standing, etc.).
+The output of the script is a summary text file that groups wearable mean and std measurement data by Subject (person) and Activity (walking, standing, etc.) and shows the mean of the measurement data.
 
 The name of this output file is "summarizedBySubjectActivity.txt".
